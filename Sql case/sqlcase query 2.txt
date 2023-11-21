@@ -1,0 +1,7 @@
+SELECT TOP (1000) [elev_id]
+      ,[fornavn]
+      ,[efternavn]
+      ,[adresse]
+      ,[post_nr]
+      ,[klasse_id]
+  FROM [TEC].[dbo].[elev]

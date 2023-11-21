@@ -1,0 +1,2 @@
+ELECT TOP (1000) [klasse_id]
+  FROM [TEC].[dbo].[klasse]
